@@ -21,3 +21,7 @@ In this notebook the following questions are answered:
 -   Number of time "That's what she said" joke comes up
     -   Include five examples of the joke
 -   The average percent of lines each character contributed each episode per season.
+-   What is the most common word used in the show?
+-   What is the total number of scenes per episode and season?
+-   What is the total line contribution percentage of each character?
+
