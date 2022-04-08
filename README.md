@@ -2,7 +2,7 @@
 
 ### Objective
 
-The task is to create a report on the given dataset using Jupyter.
+The task is to explore the dataset and create a report using Jupyter.
 
 ### Brief
 
