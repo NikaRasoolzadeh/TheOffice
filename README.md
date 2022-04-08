@@ -7,7 +7,7 @@ The task is to create a report on the given dataset using Jupyter.
 ### Brief
 
 Everyone loves "The Office," a popular show that aired from 2005 to 2013. While doing research, I stumbled across this dataset, with the lines of all the episodes.
-I decided to explore the dataset and answer some questions in a Jupyter notebook.
+I decided to explore the dataset and answer some questions in a Jupyter notebook using Natural Language Processing.
 
 ### Tasks
 
